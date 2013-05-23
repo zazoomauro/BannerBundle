@@ -15,7 +15,8 @@
         }
     ],
     "require":      {
-        "avalanche123/imagine-bundle": "dev-master"
+        "avalanche123/imagine-bundle": "dev-master",
+        "sonata-project/admin-bundle": "dev-master"
     },
     "autoload":     {
         "psr-0": { "Evercode\\Bundle\\BannerBundle": "" }
